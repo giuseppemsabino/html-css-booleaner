@@ -1,0 +1,92 @@
+img{
+    size: 100%;
+}
+
+header{
+    height: 150px;
+    background: #0080ff;   
+    background-image: url(../img/pattern.png);
+    background-size: 250px;
+    background-attachment: local;
+    margin: 0px;
+}
+
+.the-booleaner{
+    justify-content: left;
+    align-items: center;
+    padding-top: 50px;
+}
+.titolo{
+    font-style: bold;
+}
+
+.sotto-il-titolo{
+    color: rgb(124, 123, 123);
+}
+#link-thebooleaner{
+    text-decoration: none;
+}
+
+#data-piccola{
+    font-size: small;
+}
+
+#subtitle-photo-tim{
+    padding: 0;
+    margin: 0;
+    line-height: 0%;
+}
+
+#lorem-subphoto{
+    width: 900px;
+    text-align: justify;
+}
+
+#ul-subphoto{
+    width: 900px;
+}
+
+table, th,td{
+   border: none;
+   width: 1000px; 
+   height: 20px;
+   
+}
+th{
+    background-color: #0080ff;
+}
+
+#firts-line-table{
+    background-color: #9bdbf7;
+}
+
+#third-line-table{
+    background-color: #9bdbf7;
+}
+
+#lorem-subtable{
+    text-align: justify;
+    width: 900px;
+}
+
+#subtitle-footer{
+    color: rgb(124, 123, 123)
+}
+
+#first-interest-footer{
+    height: 200px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-image: url(../img/monitor.jpg);
+    color: white;
+}
+
+#second-interest-footer{
+    height: 200px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-image: url(../img/graph.jpg);
+    color: white;
+}
+
+/* secondo push*/
